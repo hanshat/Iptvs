@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="",Women's Sports Network
+https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/IptvXc/main/skychb1302.png" group-title="Sports",Sky Sports Cricket
 http://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="Sports",COPA AMERICA 2024
