@@ -9,6 +9,9 @@ https://wazobia.live:8333/channel/wmaxabuja.m3u8
 https://wazobia.live:8333/channel/wmax.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="",Wazobia Max TV Port-Harcourt
 https://wazobia.live:8333/channel/wmaxph.m3u8
+#EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://i.imgur.com/2i333B9.jpg" group-title="Lifestyle",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+
 
 EXTINF:-1 tvg-id="WAPADT1.pr" tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="",WAPA-DT1
 https://live.field59.com/wapa/wapa1/playlist.m3u8
@@ -18,6 +21,7 @@ https://live.field59.com/wapa/wapa2/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 #EXTINF:-1 tvg-id="WAPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",WAPT-DT1
 https://lnc-wapt.tubi.video/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://raw.githubusercontent.com/MrSlayerkiller10/IptvXc/main/skychb1302.png" group-title="Sports",Sky Sports Cricket
