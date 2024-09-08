@@ -126,6 +126,49 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-id="Dubai.sp3" tvg-logo="https://i.postimg.cc/x1VQTP84/65dc4f148c.png" group-title="UNITED ARAB EMIRATES", DUBAI SPORT 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-name="US | Fox Sports 1" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="CAMPURAN", FOX SPORTS 1
+
+http://kstv.us:8080/live/tH300gvHff/8606073792/22526.m3u8
+
+#EXTINF:0 tvg-name="US | Fox Sports 1 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="CAMPURAN",  FOX SPORTS 1 HD
+http://kstv.us:8080/live/tH300gvHff/8606073792/15948.m3u8
+
+#EXTINF:0 tvg-name="US | Fox Sports 2" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="CAMPURAN",  FOX SPORTS 2
+http://kstv.us:8080/live/tH300gvHff/8606073792/22525.m3u8
+
+#EXTINF:0 tvg-name="US | Fox Sports 2 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="CAMPURAN", FOX SPORTS 2 HD
+http://kstv.us:8080/live/tH300gvHff/8606073792/15947.m3u8
+
+#EXTINF:-1 tvg-id="tigo.cp" tvg-logo="http://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="CAMPURAN",TIGO SPORTS
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl_720.m3u8
+
+#EXTINF:-1 tvg-id="mutv.cp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="CAMPURAN",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Real-Madrid-vipoTv-min.png" group-title="CAMPURAN" , REAL MADRID
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+
+
+#EXTINF:0 tvg-name="SPORT TV 1" tvg-logo="https://tlgrm.re/images/sport-tv-1-pt.png" group-title="CAMPURAN",SPORT TV 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/48496.m3u8
+
+#EXTINF:0 tvg-name="SPORT TV 2" tvg-logo="https://tlgrm.re/images/sport-tv-2-pt.png" group-title="CAMPURAN",SPORT TV 2
+http://kstv.us:8080/live/tH300gvHff/8606073792/48497.m3u8
+
+#EXTINF:0 tvg-name="SPORT TV 3" tvg-logo="https://tlgrm.re/images/sport-tv-3-pt.png" group-title="CAMPURAN",SPORT TV 3
+http://kstv.us:8080/live/tH300gvHff/8606073792/48498.m3u8
+
+#EXTINF:0 tvg-name="SPORT TV 4" tvg-logo="https://tlgrm.re/images/sport-tv-4-pt.png" group-title="CAMPURAN",SPORT TV 4
+http://kstv.us:8080/live/tH300gvHff/8606073792/48499.m3u8
+
+#EXTINF:0 tvg-name="SPORT TV 5" tvg-logo="https://tlgrm.re/images/sport-tv-5-pt.png" group-title="CAMPURAN",SPORT TV 5
+http://kstv.us:8080/live/tH300gvHff/8606073792/48500.m3u8
+
+#EXTINF:-1 tvg-id="RDBL.AS" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/redbull-tv-min.png" group-title="CAMPURAN",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
 #EXTINF:-1 tvg-id="sudah.abd" tvg-logo="https://vipotv.com/wp-content/uploads/2021/02/Sharjah-Sport-live-vipotv.png" group-title="UNITED ARAB EMIRATES",SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 
