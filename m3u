@@ -105,19 +105,14 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-id="ABCTVACT.au" tvg-logo="https://i.imgur.com/Puq8t7f.png" group-title="General",ABC TV ACT
 https://c.mjh.nz/abc-act.m3u8
 
-#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious",3ABN English
-https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
-#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Religious",3ABN French
-https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
-#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious",3ABN International
-https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
-#EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Animation;Kids;Religious",3ABN Kids
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
-#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religious",3ABN Latino
-https://3abn-live.akamaized.net/hls/live/2010547/Latino/playlist.m3u8
-#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Music;Religious",3ABN Praise Him Music Network
-https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
-#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious",3ABN Proclaim! Network
-https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
-#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Religious",3ABN Russia
-https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 tvg-id="JSPORT.JP" tvg-logo="https://i.postimg.cc/DfSNQjf8/800px-J-Sports-Logo-svg.png" group-title="JEPANG",J SPORT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="JSPORT2.JP" tvg-logo="https://i.postimg.cc/yx29wySh/v3se8x1646402692.png" group-title="JEPANG",J SPORT2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="jsport3.jl" tvg-logo="https://i.postimg.cc/sgYSNSfS/zbmh4u1646402703.png" group-title="JEPANG",J SPORT3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="jsport4.jp" tvg-logo="https://i.postimg.cc/9fqQn5gL/nam42w1646402716.png" group-title="JEPANG",J SPORT4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedby:iptvcat.com
