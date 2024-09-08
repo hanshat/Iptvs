@@ -116,3 +116,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&checkedb
 
 #EXTINF:-1 tvg-id="jsport4.jp" tvg-logo="https://i.postimg.cc/9fqQn5gL/nam42w1646402716.png" group-title="JEPANG",J SPORT4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Dubai.sp1" tvg-logo="https://i.postimg.cc/Qdg3BWWx/6515a4c14a.png" group-title="UNITED ARAB EMIRATES", DUBAI SPORT 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Dubai.sp2" tvg-logo="https://i.postimg.cc/J4kmLFrX/65159df2a1.png" group-title="UNITED ARAB EMIRATES", DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dubai.sp3" tvg-logo="https://i.postimg.cc/x1VQTP84/65dc4f148c.png" group-title="UNITED ARAB EMIRATES", DUBAI SPORT 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="sudah.abd" tvg-logo="https://vipotv.com/wp-content/uploads/2021/02/Sharjah-Sport-live-vipotv.png" group-title="UNITED ARAB EMIRATES",SHARJAH SPORT
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
