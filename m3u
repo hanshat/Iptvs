@@ -252,4 +252,20 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn4.ca.m
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="tsn5.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tsn5.ca.png",TSN 5 CA
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn5.ca.m3u8
 
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.2.uk.png",BT Sport 2 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.2.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.3.uk.png",BT Sport 3 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.3.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sports 1 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.1.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.4.uk" tvg-name="bt.sport.4.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.4.uk.png",BT Sports 4 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.4.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.5.uk" tvg-name="bt.sportx.5.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",BT SportX 5 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sportx.5.uk.m3u8
+
+
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eppvjpkd.ss.png",Sky Sports Main Event
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eppvjpkd.ss.m3u8
+#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/diiefbxx.ss.png",Sky Sports Premier League
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/diiefbxx.ss.m3u8
 
