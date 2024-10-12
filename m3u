@@ -295,3 +295,15 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.spo
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.7.hr.m3u8
 #EXTINF:-1 tvg-id="arena.sport.8.hr" tvg-name="arena.sport.8.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.8.hr.png",Arena Sport 8 HR
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.8.hr.m3u8
+
+#EXTINF:-1 tvg-id="sk.hr" tvg-name="sk.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.hr.png",Sport Klub
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.hr.m3u8
+#EXTINF:-1 tvg-id="sk.1.hr" tvg-name="sk.1.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.1.hr.png",Sport Klub 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.1.hr.m3u8
+#EXTINF:-1 tvg-id="sk.2.hr" tvg-name="sk.2.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.2.hr.png",Sport Klub 2
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.2.hr.m3u8
+#EXTINF:-1 tvg-id="sk.4.hr" tvg-name="sk.4.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.4.hr.png",Sport Klub 4
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.4.hr.m3u8
+#EXTINF:-1 tvg-id="sk.5.hr" tvg-name="sk.5.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.5.hr.png",Sport Klub 5
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.5.hr.m3u8
+
