@@ -164,3 +164,33 @@ https://top2.mizhls.ru/top2/premium585/index.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://top2.mizhls.ru/top2/premium586/index.m3u8
+
+
+#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="sky.sport.football.it" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sky.sport.football.it.png",Sky Sport Football IT
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.sport.football.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.serie.a.it" tvg-name="sky.sport.serie.a.it" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sky.sport.serie.a.it.png",Sky Sport Serie A IT
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.sport.serie.a.it.m3u8
+#EXTINF:-1 tvg-id="ououennp.ss" tvg-name="ououennp.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/ououennp.ss.png",Sky Sports Action
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ououennp.ss.m3u8
+#EXTINF:-1 tvg-id="mfghdzzfhs.ss" tvg-name="mfghdzzfhs.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/mfghdzzfhs.ss.png",Sky Sports Arena
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/mfghdzzfhs.ss.m3u8
+#EXTINF:-1 tvg-id="hasitauf.ss" tvg-name="hasitauf.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/hasitauf.ss.png",Sky Sports Cricket
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/hasitauf.ss.m3u8
+#EXTINF:-1 tvg-id="qkihgakk.ss" tvg-name="qkihgakk.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/qkihgakk.ss.png",Sky Sports F1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/qkihgakk.ss.m3u8
+#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/lvupvmnk.ss.png",Sky Sports Football
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/lvupvmnk.ss.m3u8
+#EXTINF:-1 tvg-id="kszsuhwg.ss" tvg-name="kszsuhwg.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/kszsuhwg.ss.png",Sky Sports Golf
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/kszsuhwg.ss.m3u8
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eppvjpkd.ss.png",Sky Sports Main Event
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eppvjpkd.ss.m3u8
+#EXTINF:-1 tvg-id="szckleid.ss" tvg-name="szckleid.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/szckleid.ss.png",Sky Sports Mix
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/szckleid.ss.m3u8
+#EXTINF:-1 tvg-id="fdghodsfgh.ss" tvg-name="fdghodsfgh.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/fdghodsfgh.ss.png",Sky Sports News
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fdghodsfgh.ss.m3u8
+#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/diiefbxx.ss.png",Sky Sports Premier League
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/diiefbxx.ss.m3u8
+#EXTINF:-1 tvg-id="oqsogftr.ss" tvg-name="oqsogftr.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/oqsogftr.ss.png",Sky Sports Racing
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/oqsogftr.ss.m3u8
+
+
