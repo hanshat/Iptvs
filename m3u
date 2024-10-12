@@ -296,6 +296,22 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.spo
 #EXTINF:-1 tvg-id="arena.sport.8.hr" tvg-name="arena.sport.8.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.8.hr.png",Arena Sport 8 HR
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.8.hr.m3u8
 
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="espn.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.nl.png",ESPN
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.nl.m3u8
+#EXTINF:-1 tvg-id="espn.2.nl" tvg-name="espn.2.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.2.nl.png",ESPN 2
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.2.nl.m3u8
+#EXTINF:-1 tvg-id="espn.3.nl" tvg-name="espn.3.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.3.nl.png",ESPN 3
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.3.nl.m3u8
+#EXTINF:-1 tvg-id="espn.4.nl" tvg-name="espn.4.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.4.nl.png",ESPN 4
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.4.nl.m3u8
+#EXTINF:-1 tvg-id="espn.5.nl" tvg-name="espn.5.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.5.nl.png",ESPN 5
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.5.nl.m3u8
+#EXTINF:-1 tvg-id="espn.6.nl" tvg-name="espn.6.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.6.nl.png",ESPN 6
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.6.nl.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.nl" tvg-name="eurosport.1.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.1.nl.png",Eurosport 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.1.nl.m3u8
+
+
 #EXTINF:-1 tvg-id="sk.hr" tvg-name="sk.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.hr.png",Sport Klub
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.hr.m3u8
 #EXTINF:-1 tvg-id="sk.1.hr" tvg-name="sk.1.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.1.hr.png",Sport Klub 1
