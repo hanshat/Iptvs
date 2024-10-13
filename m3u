@@ -333,3 +333,11 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/lfc.uk.m3
 #EXTINF:-1 tvg-id="liverpool.tv.uk" tvg-name="liverpool.tv.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/liverpool.tv.uk.png",Liverpool TV
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/liverpool.tv.uk.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies TV ENGLISH
+https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies channel English
+https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies 1080p English
+https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
