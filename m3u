@@ -341,3 +341,7 @@ https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
 https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",AVA Family (Iran)
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",AVA Series (Iran)
+https://avaserieshls.wns.live/hls/stream.m3u8
