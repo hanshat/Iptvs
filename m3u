@@ -356,4 +356,8 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png" group-title="MOVIES",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOD PRIME" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png" group-title="INDIA",BOLLYWOOD PRIME
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/d83aef0a-3517-46b1-bbf7-0507bba8b4d2/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
+http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
