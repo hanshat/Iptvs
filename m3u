@@ -6,6 +6,9 @@ https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ENG)	
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/800px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LA LIGA
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
