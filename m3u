@@ -11,6 +11,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/800px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LA LIGA
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="ShareExt@FIGHT_Sports",IMPACT•Wrestling(1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://sediksi.com/wp-content/uploads/2023/08/Kompetisi-Serie-A.jpg",SERIE A
 https://linear-p.media.skyone.co.nz/primeplus1.clear_1.m3u8
