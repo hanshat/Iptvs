@@ -9,6 +9,21 @@ https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ENG)	
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
+#EXTINF:-1 tvg-id="Orange Sport 1 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17305.m3u8
+
+#EXTINF:-1 tvg-id="Orange Sport 2 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17304.m3u8
+
+#EXTINF:-1 tvg-id="Orange Sport 3 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 3
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17303.m3u8
+
+#EXTINF:-1 tvg-id="Orange Sport 4 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 4 
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17302.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 1 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/800px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LA LIGA
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="ShareExt@FIGHT_Sports",IMPACT•Wrestling(1080p)
