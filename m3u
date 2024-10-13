@@ -44,6 +44,13 @@ https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Spo
 #EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 5
 https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 5.m3u8
 
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="SHAREEXT@USA~Live Channels",.BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="SHAREEXT@USA~Live Channels",.BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET_SOUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="SHAREEXT@USA~Live Channels",.BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+
 #EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="",Women's Sports Network
