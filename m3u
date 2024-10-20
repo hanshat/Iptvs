@@ -21,6 +21,12 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17303.m3u8
 #EXTINF:-1 tvg-id="Orange Sport 4 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 4 
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17302.m3u8
 
+#EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premier.1.uk.m3u8
+#EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premier.2.uk.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 1 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
