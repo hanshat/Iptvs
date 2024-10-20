@@ -25,6 +25,21 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17302.m3u8
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premier.1.uk.m3u8
 #EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premier.2.uk.m3u8
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="premiere.2.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.2.br.png",Premiere 2
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.2.br.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="premiere.3.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.3.br.png",Premiere 3
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.3.br.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="premiere.4.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.4.br.png",Premiere 4
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.4.br.m3u8
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="premiere.5.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.5.br.png",Premiere 5
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.5.br.m3u8
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="premiere.6.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.6.br.png",Premiere 6
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.6.br.m3u8
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="premiere.7.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.7.br.png",Premiere 7
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.7.br.m3u8
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="premiere.8.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.8.br.png",Premiere 8
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.8.br.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 1 Australia
