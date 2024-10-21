@@ -105,7 +105,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
-
+#EXTINF:-1 tvg-id="CapeTownTV.za",Cape Town TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",Crime ThrillHer (1080p)
 https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8
 
@@ -222,6 +223,8 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Movies2",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MST3K.us",Mystery Science Theater 3000 (720p)
+https://aegis-cloudfront-1.tubi.video/d4996d1c-b12b-4220-ac05-b674d76b639b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies TV ENGLISH
 https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
@@ -279,7 +282,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Real-Madrid-vipoTv-min.png" group-title="CAMPURAN" , REAL MADRID
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="SowetoTV.za",Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sudah.abd" tvg-logo="https://vipotv.com/wp-content/uploads/2021/02/Sharjah-Sport-live-vipotv.png" group-title="UNITED ARAB EMIRATES",SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 
@@ -373,7 +377,8 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.5.hr.m
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="TVBRICSAfrica.za",TV BRICS Africa (1080p)
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="the.tennis.channel.us" tvg-name="the.tennis.channel.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/the.tennis.channel.us.png",Tennis Channel US
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/the.tennis.channel.us.m3u8
 #EXTINF:-1 tvg-id="tennis.plus.1.us" tvg-name="tennis.plus.1.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tennis.plus.1.us.png",Tennis Plus 1
