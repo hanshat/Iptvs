@@ -15,13 +15,7 @@ https://faptok.site/sportslive/stream.m3u8?id=295
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East (1080p)
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="BET USA" ,BET USA  
-https://faptok.site/sportslive/stream.m3u8?id=306
 
-#EXTINF:-1 tvg-id="BETGospel.us",BET Gospel
-http://143.244.60.30/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-id="BETHerEast.us",BET Her East
-http://212.102.60.231/BET_HER/index.m3u8
 #EXTINF:-1 tvg-id="AFV.us",Always Funny Videos (720p)
 https://apollo.production-public.tubi.io/live/ac-afv.m3u8
 #EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
@@ -58,6 +52,9 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.spo
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.7.hr.m3u8
 #EXTINF:-1 tvg-id="arena.sport.8.hr" tvg-name="arena.sport.8.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.8.hr.png",Arena Sport 8 HR
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.8.hr.m3u8
+
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="BET USA" ,BET USA  
+https://faptok.site/sportslive/stream.m3u8?id=306
 
 #EXTINF:-1 tvg-id="",BBC Doctor Who Classic (720p)
 https://apollo.production-public.tubi.io/live/ac-dr-who.m3u8
@@ -125,6 +122,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/d83aef0a-3517-46b1-bbf7-0507bba8b4d2/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Canal+ Sport 1 Afrique" ,Canal+ Sport 1 Afrique  
+https://faptok.site/sportslive/stream.m3u8?id=486
 
 #EXTINF:-1 tvg-id="CapeTownTV.za",Cape Town TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
