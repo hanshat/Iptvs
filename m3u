@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Adult Swim" ,Adult Swim  
+https://faptok.site/sportslive/stream.m3u8?id=295
+
+
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East (1080p)
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
