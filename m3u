@@ -12,8 +12,7 @@ https://faptok.site/sportslive/stream.m3u8?id=126
 https://faptok.site/sportslive/stream.m3u8?id=295
 
 
-#EXTINF:-1 tvg-id="AMCEast.us",AMC East (1080p)
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/aljazeera.jpg" ,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
