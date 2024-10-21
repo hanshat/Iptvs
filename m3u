@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="AFV.us",Always Funny Videos (720p)
+https://apollo.production-public.tubi.io/live/ac-afv.m3u8
 #EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnNgC0vs/animetv.png" group-title="Anak",Anime Tv
@@ -34,6 +37,9 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.spo
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.7.hr.m3u8
 #EXTINF:-1 tvg-id="arena.sport.8.hr" tvg-name="arena.sport.8.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.8.hr.png",Arena Sport 8 HR
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.8.hr.m3u8
+
+#EXTINF:-1 tvg-id="",BBC Doctor Who Classic (720p)
+https://apollo.production-public.tubi.io/live/ac-dr-who.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 1
 https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 1.m3u8
@@ -110,6 +116,8 @@ https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 https://oha.to/play/2941093452/index.m3u8
 #EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
 https://apollo.production-public.tubi.io/live/ac-dazn-ringside.m3u8
+#EXTINF:-1 tvg-id="",Dr. G Medical Examiner (720p)
+https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8
 
 #EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="cbs.sports.network.usa.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/cbs.sports.network.usa.us.png",CBS Sports Network USA
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/cbs.sports.network.usa.us.m3u8
@@ -147,6 +155,11 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.5.nl
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.6.nl.m3u8
 #EXTINF:-1 tvg-id="eurosport.1.nl" tvg-name="eurosport.1.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.1.nl.png",Eurosport 1
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.1.nl.m3u8
+
+#EXTINF:-1 tvg-id="",FilmRise Unsolved Mysteries (720p)
+https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
+#EXTINF:-1 tvg-id="",Filmrise World's Most Evil Killers (720p)
+https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
 
 #EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="fight.network.canada.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/fight.network.canada.ca.png",Fight Network CA
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fight.network.canada.ca.m3u8
