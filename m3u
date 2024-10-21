@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnNgC0vs/animetv.png" group-title="Anak",Anime Tv
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",AVA Family (Iran)
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",AVA Series (Iran)
+https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="arena.sport.1.rs" tvg-name="arena.sport.1.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.1.rs.png",Arena Sport 1
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.1.rs.m3u8
 #EXTINF:-1 tvg-id="arena.sport.1.hr" tvg-name="arena.sport.1.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.1.hr.png",Arena Sport 1 HR
@@ -172,6 +180,10 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fubo.spor
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fubo.sports.4.us.m3u8
 #EXTINF:-1 tvg-id="game.us" tvg-name="game.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/game.us.png",GAME+
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/game.us.m3u8
+
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="ShareExt@FIGHT_Sports",IMPACT•Wrestling(1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 #EXTINF:-1 tvg-id="ginx.esports.tv.canada.us" tvg-name="ginx.esports.tv.canada.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/ginx.esports.tv.canada.us.png",Ginx eSports TV CA
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/ginx.esports.tv.canada.us.m3u8
 #EXTINF:-1 tvg-id="golf.channel.canada.ca" tvg-name="golf.channel.canada.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/golf.channel.canada.ca.png",Golf Channel CA
@@ -200,6 +212,9 @@ https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
 https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies 1080p English
 https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
@@ -232,33 +247,12 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/800px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LA LIGA
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="ShareExt@FIGHT_Sports",IMPACT•Wrestling(1080p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-
-#EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS",MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",LALIGA TV BAR 
 https://oha.to/play/1980907224/index.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",LA LIGA TV HD 
 https://oha.to/play/3923153097/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="",Women's Sports Network
-https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="",Wazobia Max TV Abuja
-https://wazobia.live:8333/channel/wmaxabuja.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="",Wazobia Max TV Nigeria
-https://wazobia.live:8333/channel/wmax.m3u8
-#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="",Wazobia Max TV Port-Harcourt
-https://wazobia.live:8333/channel/wmaxph.m3u8
-#EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://i.imgur.com/2i333B9.jpg" group-title="Lifestyle",Vogue
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -358,6 +352,9 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.2.hr.m
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.4.hr.m3u8
 #EXTINF:-1 tvg-id="sk.5.hr" tvg-name="sk.5.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.5.hr.png",Sport Klub 5
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.5.hr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="the.tennis.channel.us" tvg-name="the.tennis.channel.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/the.tennis.channel.us.png",Tennis Channel US
@@ -381,20 +378,23 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn4.ca.m
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="tsn5.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tsn5.ca.png",TSN 5 CA
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn5.ca.m3u8
 
-
-
 #EXTINF:-1 tvg-id="TMZ.us",TMZ (720p)
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
-https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",AVA Family (Iran)
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",AVA Series (Iran)
-https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="",Women's Sports Network
+https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="",Wazobia Max TV Abuja
+https://wazobia.live:8333/channel/wmaxabuja.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="",Wazobia Max TV Nigeria
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="",Wazobia Max TV Port-Harcourt
+https://wazobia.live:8333/channel/wmaxph.m3u8
+#EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://i.imgur.com/2i333B9.jpg" group-title="Lifestyle",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnNgC0vs/animetv.png" group-title="Anak",Anime Tv
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+
+
 
