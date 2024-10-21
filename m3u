@@ -8,9 +8,9 @@ https://faptok.site/sportslive/stream.m3u8?id=295
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="BETGospel.us",BET Gospel
-https://143.244.60.30/BET_GOSPEL/index.m3u8
+http://143.244.60.30/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="BETHerEast.us",BET Her East
-https://212.102.60.231/BET_HER/index.m3u8
+http://212.102.60.231/BET_HER/index.m3u8
 #EXTINF:-1 tvg-id="AFV.us",Always Funny Videos (720p)
 https://apollo.production-public.tubi.io/live/ac-afv.m3u8
 #EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
