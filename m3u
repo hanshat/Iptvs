@@ -9,17 +9,8 @@ https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ENG)	
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1 tvg-id="Orange Sport 1 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17305.m3u8
-
-#EXTINF:-1 tvg-id="Orange Sport 2 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17304.m3u8
-
-#EXTINF:-1 tvg-id="Orange Sport 3 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17303.m3u8
-
-#EXTINF:-1 tvg-id="Orange Sport 4 HD.ro" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="SPORTS", ORANGE SPORT 4 
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/17302.m3u8
+#EXTINF:-1 tvg-id="TMZ.us",TMZ (720p)
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
 
 #EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premier.1.uk.m3u8
