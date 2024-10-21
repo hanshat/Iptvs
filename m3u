@@ -138,6 +138,11 @@ https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png?20210827134204" group-title="SPORTS",DAZN 1 
 https://oha.to/play/2941093452/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="DAZN 2 Bar DE" ,DAZN 2 Bar DE  
+https://faptok.site/sportslive/stream.m3u8?id=427
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="DAZN LaLiga 2" ,DAZN LaLiga 2  
+https://faptok.site/sportslive/stream.m3u8?id=43
 #EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
 https://apollo.production-public.tubi.io/live/ac-dazn-ringside.m3u8
 #EXTINF:-1 tvg-id="",Dr. G Medical Examiner (720p)
