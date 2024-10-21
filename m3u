@@ -384,6 +384,9 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.5.hr.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="StarMovies.in",Star Movies India (576p) [Not 24/7]
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+
 
 #EXTINF:-1 tvg-id="TVBRICSAfrica.za",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
