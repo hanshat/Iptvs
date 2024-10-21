@@ -1,18 +1,146 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="arena.sport.1.rs" tvg-name="arena.sport.1.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.1.rs.png",Arena Sport 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.1.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.1.hr" tvg-name="arena.sport.1.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.1.hr.png",Arena Sport 1 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.1.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.10.hr" tvg-name="arena.sport.10.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.10.hr.png",Arena Sport 10 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.10.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.2.rs" tvg-name="arena.sport.2.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.2.rs.png",Arena Sport 2
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.2.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.2.hr" tvg-name="arena.sport.2.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.2.hr.png",Arena Sport 2 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.2.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.3.rs" tvg-name="arena.sport.3.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.3.rs.png",Arena Sport 3
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.3.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.3.hr" tvg-name="arena.sport.3.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.3.hr.png",Arena Sport 3 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.3.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.4.rs" tvg-name="arena.sport.4.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.4.rs.png",Arena Sport 4
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.4.rs.m3u8
+#EXTINF:-1 tvg-id="arena.sport.4.hr" tvg-name="arena.sport.4.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.4.hr.png",Arena Sport 4 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.4.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.5.hr" tvg-name="arena.sport.5.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.5.hr.png",Arena Sport 5 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.5.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.6.hr" tvg-name="arena.sport.6.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.6.hr.png",Arena Sport 6 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.6.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.7.hr" tvg-name="arena.sport.7.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.7.hr.png",Arena Sport 7 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.7.hr.m3u8
+#EXTINF:-1 tvg-id="arena.sport.8.hr" tvg-name="arena.sport.8.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.8.hr.png",Arena Sport 8 HR
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.8.hr.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 1
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 1.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 2
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 2.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 3
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 3.m3u8
+
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 4
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 4.m3u8
+
+
+#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 5
+https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 5.m3u8
+
+
+#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="bein.sports.4.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.4.us.png",beIN Sports 4 US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.4.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="bein.sports.5.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.5.us.png",beIN Sports 5 US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.5.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="bein.sports.6.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.6.us.png",beIN Sports 6 US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.6.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="bein.sports.7.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.7.us.png",beIN Sports 7 US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.7.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="bein.sports.8.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.8.us.png",beIN Sports 8 US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.8.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.liga.us" tvg-name="bein.sports.liga.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.liga.us.png",beIN Sports Liga US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.liga.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.xtra.us" tvg-name="bein.sports.xtra.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.xtra.us.png",Bein Sports Xtra
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.xtra.us.m3u8
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="big.ten.network.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/big.ten.network.us.png",Big Ten Network US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/big.ten.network.us.m3u8
+#EXTINF:-1 tvg-id="blue.sport.1.ch" tvg-name="blue.sport.1.ch" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/blue.sport.1.ch.png",Blue Sport 1 CH
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/blue.sport.1.ch.m3u8
+#EXTINF:-1 tvg-id="blue.sport.2.ch" tvg-name="blue.sport.2.ch" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/blue.sport.2.ch.png",Blue Sport 2 CH
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/blue.sport.2.ch.m3u8
+
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sports 1 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.1.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.2.uk.png",BT Sport 2 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.2.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.3.uk.png",BT Sport 3 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.3.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.4.uk" tvg-name="bt.sport.4.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.4.uk.png",BT Sports 4 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.4.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.5.uk" tvg-name="bt.sportx.5.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",BT SportX 5 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sportx.5.uk.m3u8
+
+
+
+#EXTINF:-1 tvg-id="bt.sport.box.office.uk" tvg-name="bt.sport.box.office.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.box.office.uk.png",BT Sport Box Office UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.box.office.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.espn.uk" tvg-name="bt.sport.espn.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.espn.uk.png",BT Sport ESPN UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.espn.uk.m3u8
+
+
+#EXTINF:-1 tvg-id="",Crime ThrillHer (1080p)
+https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8
+
+
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="cbs.sports.network.usa.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/cbs.sports.network.usa.us.png",CBS Sports Network USA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/cbs.sports.network.usa.us.m3u8
+#EXTINF:-1 tvg-id="eir.sports.1.uk" tvg-name="eir.sports.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eir.sports.1.uk.png",EIR Sports 1 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eir.sports.1.uk.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.us" tvg-name="eleven.sports.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eleven.sports.us.png",Eleven Sports
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eleven.sports.us.m3u8
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn2.us.m3u8
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="espn.news.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.news.us.png",ESPN News US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.news.us.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.us.m3u8
+#EXTINF:-1 tvg-id="espn.ze" tvg-name="espn.ze" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.ze.png",ESPN ZE
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.ze.m3u8
+#EXTINF:-1 tvg-id="espn2.ze" tvg-name="espn2.ze" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn2.ze.png",ESPN2 ZE
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn2.ze.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="eurosport.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.1.uk.png",Eurosport 1 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.1.uk.m3u8
+#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="eurosport.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.2.uk.png",Eurosport 2 UK
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.2.uk.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png?20210827134204" group-title="SPORTS",DAZN 1 
+https://oha.to/play/2941093452/index.m3u8
+
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="espn.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.nl.png",ESPN
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.nl.m3u8
+#EXTINF:-1 tvg-id="espn.2.nl" tvg-name="espn.2.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.2.nl.png",ESPN 2
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.2.nl.m3u8
+#EXTINF:-1 tvg-id="espn.3.nl" tvg-name="espn.3.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.3.nl.png",ESPN 3
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.3.nl.m3u8
+#EXTINF:-1 tvg-id="espn.4.nl" tvg-name="espn.4.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.4.nl.png",ESPN 4
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.4.nl.m3u8
+#EXTINF:-1 tvg-id="espn.5.nl" tvg-name="espn.5.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.5.nl.png",ESPN 5
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.5.nl.m3u8
+#EXTINF:-1 tvg-id="espn.6.nl" tvg-name="espn.6.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.6.nl.png",ESPN 6
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.6.nl.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.nl" tvg-name="eurosport.1.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.1.nl.png",Eurosport 1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.1.nl.m3u8
+
+#EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="fight.network.canada.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/fight.network.canada.ca.png",Fight Network CA
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fight.network.canada.ca.m3u8
+
 #EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ENG)	
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
+https://apollo.production-public.tubi.io/live/ac-dazn-ringside.m3u8
 
 #EXTINF:-1 tvg-id="TMZ.us",TMZ (720p)
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
-#EXTINF:-1 tvg-id="",Crime ThrillHer (1080p)
-https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8
 
 #EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premier.1.uk.m3u8
@@ -33,7 +161,8 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.
 #EXTINF:-1 tvg-id="premiere.8.br" tvg-name="premiere.8.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.8.br.png",Premiere 8
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.8.br.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ENG)	
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORTS",OPTUS 1 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
@@ -46,9 +175,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://sediksi.com/wp-content/uploads/2023/08/Kompetisi-Serie-A.jpg",SERIE A
 https://linear-p.media.skyone.co.nz/primeplus1.clear_1.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png?20210827134204" group-title="SPORTS",DAZN 1 
-https://oha.to/play/2941093452/index.m3u8
-
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORTS",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
@@ -58,22 +184,6 @@ https://oha.to/play/1980907224/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",LA LIGA TV HD 
 https://oha.to/play/3923153097/index.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 1
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 1.m3u8
-
-#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 2
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 2.m3u8
-
-#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 3
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 3.m3u8
-
-
-#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 4
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 4.m3u8
-
-
-#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",BEIN SPORTS 5
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 5.m3u8
 
 
 #EXTINF:-1 tvg-id="AfrobeatsTV.za",Afrobeats TV (1080p)
@@ -188,16 +298,6 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn4.ca.m
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="tsn5.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tsn5.ca.png",TSN 5 CA
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn5.ca.m3u8
 
-#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.2.uk.png",BT Sport 2 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.2.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.3.uk.png",BT Sport 3 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.3.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sports 1 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.1.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.4.uk" tvg-name="bt.sport.4.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.4.uk.png",BT Sports 4 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.4.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sportx.5.uk" tvg-name="bt.sportx.5.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",BT SportX 5 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sportx.5.uk.m3u8
 
 
 #EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eppvjpkd.ss.png",Sky Sports Main Event
@@ -205,47 +305,6 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eppvjpkd.
 #EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/diiefbxx.ss.png",Sky Sports Premier League
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/diiefbxx.ss.m3u8
 
-#EXTINF:-1 tvg-id="arena.sport.1.rs" tvg-name="arena.sport.1.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.1.rs.png",Arena Sport 1
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.1.rs.m3u8
-#EXTINF:-1 tvg-id="arena.sport.1.hr" tvg-name="arena.sport.1.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.1.hr.png",Arena Sport 1 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.1.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.10.hr" tvg-name="arena.sport.10.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.10.hr.png",Arena Sport 10 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.10.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.2.rs" tvg-name="arena.sport.2.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.2.rs.png",Arena Sport 2
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.2.rs.m3u8
-#EXTINF:-1 tvg-id="arena.sport.2.hr" tvg-name="arena.sport.2.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.2.hr.png",Arena Sport 2 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.2.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.3.rs" tvg-name="arena.sport.3.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.3.rs.png",Arena Sport 3
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.3.rs.m3u8
-#EXTINF:-1 tvg-id="arena.sport.3.hr" tvg-name="arena.sport.3.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.3.hr.png",Arena Sport 3 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.3.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.4.rs" tvg-name="arena.sport.4.rs" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.4.rs.png",Arena Sport 4
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.4.rs.m3u8
-#EXTINF:-1 tvg-id="arena.sport.4.hr" tvg-name="arena.sport.4.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.4.hr.png",Arena Sport 4 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.4.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.5.hr" tvg-name="arena.sport.5.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.5.hr.png",Arena Sport 5 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.5.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.6.hr" tvg-name="arena.sport.6.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.6.hr.png",Arena Sport 6 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.6.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.7.hr" tvg-name="arena.sport.7.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.7.hr.png",Arena Sport 7 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.7.hr.m3u8
-#EXTINF:-1 tvg-id="arena.sport.8.hr" tvg-name="arena.sport.8.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.8.hr.png",Arena Sport 8 HR
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.8.hr.m3u8
-
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="espn.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.nl.png",ESPN
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.nl.m3u8
-#EXTINF:-1 tvg-id="espn.2.nl" tvg-name="espn.2.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.2.nl.png",ESPN 2
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.2.nl.m3u8
-#EXTINF:-1 tvg-id="espn.3.nl" tvg-name="espn.3.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.3.nl.png",ESPN 3
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.3.nl.m3u8
-#EXTINF:-1 tvg-id="espn.4.nl" tvg-name="espn.4.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.4.nl.png",ESPN 4
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.4.nl.m3u8
-#EXTINF:-1 tvg-id="espn.5.nl" tvg-name="espn.5.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.5.nl.png",ESPN 5
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.5.nl.m3u8
-#EXTINF:-1 tvg-id="espn.6.nl" tvg-name="espn.6.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.6.nl.png",ESPN 6
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.6.nl.m3u8
-#EXTINF:-1 tvg-id="eurosport.1.nl" tvg-name="eurosport.1.nl" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.1.nl.png",Eurosport 1
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.1.nl.m3u8
 
 
 #EXTINF:-1 tvg-id="sk.hr" tvg-name="sk.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.hr.png",Sport Klub
@@ -259,62 +318,6 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.4.hr.m
 #EXTINF:-1 tvg-id="sk.5.hr" tvg-name="sk.5.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.5.hr.png",Sport Klub 5
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.5.hr.m3u8
 
-#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="bein.sports.4.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.4.us.png",beIN Sports 4 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.4.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="bein.sports.5.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.5.us.png",beIN Sports 5 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.5.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="bein.sports.6.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.6.us.png",beIN Sports 6 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.6.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="bein.sports.7.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.7.us.png",beIN Sports 7 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.7.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="bein.sports.8.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.8.us.png",beIN Sports 8 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.8.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.liga.us" tvg-name="bein.sports.liga.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.liga.us.png",beIN Sports Liga US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.liga.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.xtra.us" tvg-name="bein.sports.xtra.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.xtra.us.png",Bein Sports Xtra
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.xtra.us.m3u8
-#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="big.ten.network.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/big.ten.network.us.png",Big Ten Network US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/big.ten.network.us.m3u8
-#EXTINF:-1 tvg-id="blue.sport.1.ch" tvg-name="blue.sport.1.ch" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/blue.sport.1.ch.png",Blue Sport 1 CH
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/blue.sport.1.ch.m3u8
-#EXTINF:-1 tvg-id="blue.sport.2.ch" tvg-name="blue.sport.2.ch" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/blue.sport.2.ch.png",Blue Sport 2 CH
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/blue.sport.2.ch.m3u8
-#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.2.uk.png",BT Sport 2 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.2.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.3.uk.png",BT Sport 3 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.3.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.box.office.uk" tvg-name="bt.sport.box.office.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.box.office.uk.png",BT Sport Box Office UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.box.office.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.espn.uk" tvg-name="bt.sport.espn.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.espn.uk.png",BT Sport ESPN UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.espn.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sports 1 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.1.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.4.uk" tvg-name="bt.sport.4.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.4.uk.png",BT Sports 4 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.4.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sportx.5.uk" tvg-name="bt.sportx.5.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",BT SportX 5 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sportx.5.uk.m3u8
-#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="cbs.sports.network.usa.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/cbs.sports.network.usa.us.png",CBS Sports Network USA
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/cbs.sports.network.usa.us.m3u8
-#EXTINF:-1 tvg-id="eir.sports.1.uk" tvg-name="eir.sports.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eir.sports.1.uk.png",EIR Sports 1 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eir.sports.1.uk.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.us" tvg-name="eleven.sports.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eleven.sports.us.png",Eleven Sports
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eleven.sports.us.m3u8
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn2.us.m3u8
-#EXTINF:-1 tvg-id="espn.news.us" tvg-name="espn.news.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.news.us.png",ESPN News US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.news.us.m3u8
-#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.us.m3u8
-#EXTINF:-1 tvg-id="espn.ze" tvg-name="espn.ze" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn.ze.png",ESPN ZE
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn.ze.m3u8
-#EXTINF:-1 tvg-id="espn2.ze" tvg-name="espn2.ze" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/espn2.ze.png",ESPN2 ZE
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/espn2.ze.m3u8
-#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="eurosport.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.1.uk.png",Eurosport 1 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.1.uk.m3u8
-#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="eurosport.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/eurosport.2.uk.png",Eurosport 2 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eurosport.2.uk.m3u8
-#EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="fight.network.canada.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/fight.network.canada.ca.png",Fight Network CA
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fight.network.canada.ca.m3u8
 #EXTINF:-1 tvg-id="nsw.sydney.fox.cricket.au" tvg-name="nsw.sydney.fox.cricket.au" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/nsw.sydney.fox.cricket.au.png",Fox Cricket AU
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/nsw.sydney.fox.cricket.au.m3u8
 #EXTINF:-1 tvg-id="fox.deportes.us" tvg-name="fox.deportes.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/fox.deportes.us.png",Fox Deportes
