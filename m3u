@@ -162,6 +162,8 @@ https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
 #EXTINF:-1 tvg-id="",Filmrise World's Most Evil Killers (720p)
 https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
 
+#EXTINF:-1 tvg-id="FaithTV.za",Faith TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="fight.network.canada.ca" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/fight.network.canada.ca.png",Fight Network CA
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fight.network.canada.ca.m3u8
 
