@@ -15,6 +15,9 @@ https://faptok.site/sportslive/stream.m3u8?id=295
 #EXTINF:-1 tvg-id="AMCEast.us",AMC East (1080p)
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="BET USA" ,BET USA  
+https://faptok.site/sportslive/stream.m3u8?id=306
+
 #EXTINF:-1 tvg-id="BETGospel.us",BET Gospel
 http://143.244.60.30/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-id="BETHerEast.us",BET Her East
