@@ -325,6 +325,29 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.
 #EXTINF:-1 tvg-id="premiere.8.br" tvg-name="premiere.8.br" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premiere.8.br.png",Premiere 8
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premiere.8.br.m3u8
 
+
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV (1080p)
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MAVTVSelect.us",MavTV Select (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk",Rakuten Action Movies UK (720p)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.uk",Rakuten Comedy Movies UK (720p)
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk",Rakuten Family UK (720p)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Rakuten Shows UK (720p)
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.uk",Rakuten Spotlight UK (720p)
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryNews.us",Revry News (720p)
+https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in",Travel XP (720p)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RealMadrid (ENG)	
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
