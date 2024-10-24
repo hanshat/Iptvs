@@ -259,6 +259,9 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/liverpool
 #EXTINF:-1 tvg-id="lfc.uk" tvg-name="lfc.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/lfc.uk.png",LFC TV UK
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/lfc.uk.m3u8
 
+
+#EXTINF:-1 tvg-id="MorningCloudTV.ke",Morning Cloud TV (576p)
+https://webstreaming.viewmedia.tv/web_026/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us",Maverick Black Cinema (720p)
 https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
 #EXTINF:-1 tvg-id="",Mr. Beast (1080p)
