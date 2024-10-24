@@ -458,7 +458,8 @@ https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in",Star Movies India (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 
-
+#EXTINF:-1 tvg-id="TBNAfrica.za",TBN Africa (1080p)
+https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="TVBRICSAfrica.za",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="the.tennis.channel.us" tvg-name="the.tennis.channel.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/the.tennis.channel.us.png",Tennis Channel US
