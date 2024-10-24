@@ -518,6 +518,8 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn5.ca.m
 
 #EXTINF:-1 tvg-id="TMZ.us",TMZ (720p)
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vijuExplore.ru" user-agent="ExoPlayer2/2.37",viju Explore
 https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
