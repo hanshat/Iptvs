@@ -211,6 +211,9 @@ https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
 #EXTINF:-1 tvg-id="",Filmrise World's Most Evil Killers (720p)
 https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
 
+
+#EXTINF:-1 tvg-id="",FX
+https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithTV.za",Faith TV (576p)
