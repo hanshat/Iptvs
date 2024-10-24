@@ -4,10 +4,8 @@
 https://faptok.site/sportslive/stream.m3u8?id=32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",UEFA Europa League : Tottenham Hotspur vs AZ 
 https://faptok.site/sportslive/stream.m3u8?id=31
-
-
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",UEFA Conference League : Panathinaikos vs Chelsea
+https://faptok.site/sportslive/stream.m3u8?id=31
 
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Astro SuperSport 1" ,Astro SuperSport 1  
 https://faptok.site/sportslive/stream.m3u8?id=123
