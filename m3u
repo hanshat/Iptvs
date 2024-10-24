@@ -160,6 +160,18 @@ https://faptok.site/sportslive/stream.m3u8?id=827
 https://faptok.site/sportslive/stream.m3u8?id=786
 #EXTINF:-1 tvg-id="DodomaTV.tz",Dodoma TV (360p) [Not 24/7]
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 pt 
+https://ggl2605xwhr.a.trbcdn.net/dazn1/index.m3u8
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 pt 
+https://ggl2605xwhr.a.trbcdn.net/dazn2/index.m3u8
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 pt 
+https://ggl2605xwhr.a.trbcdn.net/dazn3/index.m3u8
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 pt 
+https://ggl2605xwhr.a.trbcdn.net/dazn4/index.m3u8
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 pt 
+https://ggl2605xwhr.a.trbcdn.net/dazn5/index.m3u8
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 pt 
+https://ggl2605xwhr.a.trbcdn.net/dazn6/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="DAZN 2 Bar DE" ,DAZN 2 Bar DE  
