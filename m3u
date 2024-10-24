@@ -22,6 +22,8 @@ https://faptok.site/sportslive/stream.m3u8?id=295
 
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/aljazeera.jpg" ,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AboodTV.tz",Abood TV (240p) [Not 24/7]
+https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AFV.us",Always Funny Videos (720p)
@@ -151,6 +153,9 @@ https://oha.to/play/2941093452/index.m3u8
 https://faptok.site/sportslive/stream.m3u8?id=827
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="DSTV Mzansi Magic" ,DSTV Mzansi Magic  
 https://faptok.site/sportslive/stream.m3u8?id=786
+#EXTINF:-1 tvg-id="DodomaTV.tz",Dodoma TV (360p) [Not 24/7]
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="DAZN 2 Bar DE" ,DAZN 2 Bar DE  
 https://faptok.site/sportslive/stream.m3u8?id=427
