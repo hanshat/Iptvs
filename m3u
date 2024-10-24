@@ -19,7 +19,8 @@ https://faptok.site/sportslive/stream.m3u8?id=126
 https://faptok.site/sportslive/stream.m3u8?id=295
 
 
-
+#EXTINF:-1 tvg-id="AfrocultureTV.ci",Afroculture TV (1080p)
+https://helga.iptv2022.com/sh/Afroculture/index.m3u8
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/aljazeera.jpg" ,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AboodTV.tz",Abood TV (240p) [Not 24/7]
@@ -133,6 +134,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
+#EXTINF:-1 tvg-id="ChristLive.ci",Christ Live (720p)
+https://voozmedia.fun/stream/christlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Canal+ Sport 1 Afrique" ,Canal+ Sport 1 Afrique  
 https://faptok.site/sportslive/stream.m3u8?id=486
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Canal+ Sport 4 Afrique" ,Canal+ Sport 4 Afrique  
@@ -298,8 +301,11 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 #EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+#EXTINF:-1 tvg-id="NovelaChannel.ci",Novela Channel (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="PassionNovelas.ci",Passion Novelas
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1
 #EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/premier.1.uk.m3u8
 #EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
