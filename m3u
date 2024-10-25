@@ -125,6 +125,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
+#EXTINF:-1 tvg-id=\"CinemaHausa.za\" tvg-logo=\"https://i.imgur.com/uV5cHDW.png\" group-title=\"Movies\",Cinema Hausa (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristLive.ci",Christ Live (720p)
 https://voozmedia.fun/stream/christlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Canal+ Sport 1 Afrique" ,Canal+ Sport 1 Afrique  
