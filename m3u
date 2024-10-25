@@ -474,6 +474,16 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eppvjpkd.
 #EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/diiefbxx.ss.png",Sky Sports Premier League
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/diiefbxx.ss.m3u8
 
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Undefined",Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Undefined",Showtime East
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Undefined",Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Undefined",Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Showtime 2 USA (SHO2) USA" ,Showtime 2 USA (SHO2) USA  
 https://faptok.site/sportslive/stream.m3u8?id=792
 
