@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",UEFA Europa League :Fenerbahçe vs Manchester United
-https://faptok.site/sportslive/stream.m3u8?id=32
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",UEFA Europa League : Tottenham Hotspur vs AZ 
-https://faptok.site/sportslive/stream.m3u8?id=31
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",UEFA Conference League : Panathinaikos vs Chelsea
-https://faptok.site/sportslive/stream.m3u8?id=31
-
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Astro SuperSport 1" ,Astro SuperSport 1  
-https://faptok.site/sportslive/stream.m3u8?id=123
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Astro SuperSport 2" ,Astro SuperSport 2  
-https://faptok.site/sportslive/stream.m3u8?id=124
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Astro SuperSport 3" ,Astro SuperSport 3  
-https://faptok.site/sportslive/stream.m3u8?id=125
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Astro SuperSport 4" ,Astro SuperSport 4  
-https://faptok.site/sportslive/stream.m3u8?id=126
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Adult Swim" ,Adult Swim  
-https://faptok.site/sportslive/stream.m3u8?id=295
-
 
 #EXTINF:-1 tvg-id="AfrocultureTV.ci",Afroculture TV (1080p)
 https://helga.iptv2022.com/sh/Afroculture/index.m3u8
