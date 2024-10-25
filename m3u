@@ -234,6 +234,21 @@ https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
 https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="FX Movie Channel",FX Movie Channel
+#EXTVLCOPT:http-referrer=https://faptok.site/sportslive/pl1.php?play=381
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://faptok.site/sportslive/stream.m3u8?id=381
+
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="FX USA",FX USA
+https://faptok.site/sportslive/stream.m3u8?id=317
+
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="FXX USA",FXX USA
+https://faptok.site/sportslive/stream.m3u8?id=298
+
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="FYI",FYI
+https://faptok.site/sportslive/stream.m3u8?id=665
+
+
 #EXTINF:-1 tvg-id="",FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr",Fashion TV UHD (2160p)
