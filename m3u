@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Friday Night SmackDown 
+https://faptok.site/sportslive/stream.m3u8?id=418
+
 #EXTINF:-1 tvg-id=\"AboodTV.tz\" tvg-logo=\"https://i.imgur.com/vYEUncC.jpg\" group-title=\"Entertainment\",Abood TV (240p) [Not 24/7]
 https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Algeria",Africa 24 (540p)
