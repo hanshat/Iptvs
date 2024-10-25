@@ -10,6 +10,8 @@ https://amchls.wns.live/hls/stream.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AboodTV.tz",Abood TV (240p) [Not 24/7]
 https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
+#EXTINF:-1 tvg-id="AfriwoodBlockbuster.za" tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="South Africa",Afriwood Blockbuster (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AFV.us",Always Funny Videos (720p)
@@ -394,7 +396,8 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720
 
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://sediksi.com/wp-content/uploads/2023/08/Kompetisi-Serie-A.jpg",SERIE A
 https://linear-p.media.skyone.co.nz/primeplus1.clear_1.m3u8
-
+#EXTINF:-1 tvg-id="SportsConnect.za" tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="South Africa",Sports Connect (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="sky.sport.football.it" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sky.sport.football.it.png",Sky Sport Football IT
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sky.sport.football.it.m3u8
