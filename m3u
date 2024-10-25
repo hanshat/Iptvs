@@ -474,40 +474,16 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/eppvjpkd.
 #EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/diiefbxx.ss.png",Sky Sports Premier League
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/diiefbxx.ss.m3u8
 
-#EXTINF:-1 tvg-id="Showtime2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Undefined",Showtime 2 East
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Undefined",Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-logo="https://i.imgur.com/byJNJdm.png" group-title="Undefined",Showtime Extreme East
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-logo="https://i.imgur.com/1Ak2MX2.png" group-title="Undefined",Showtime Next East
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Showtime 2 USA (SHO2) USA" ,Showtime 2 USA (SHO2) USA  
-https://faptok.site/sportslive/stream.m3u8?id=792
-
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Showtime Family Zone (SHO Family Zone) USA" ,Showtime Family Zone (SHO Family Zone) USA  
-https://faptok.site/sportslive/stream.m3u8?id=795
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Showtime Next (SHO Next) USA" ,Showtime Next (SHO Next) USA  
-https://faptok.site/sportslive/stream.m3u8?id=796
-
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="SYFY USA" ,SYFY USA  
-https://faptok.site/sportslive/stream.m3u8?id=373
 
 
 
 
-#EXTINF:-1 tvg-id="sk.hr" tvg-name="sk.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.hr.png",Sport Klub
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.hr.m3u8
-#EXTINF:-1 tvg-id="sk.1.hr" tvg-name="sk.1.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.1.hr.png",Sport Klub 1
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.1.hr.m3u8
-#EXTINF:-1 tvg-id="sk.2.hr" tvg-name="sk.2.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.2.hr.png",Sport Klub 2
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.2.hr.m3u8
-#EXTINF:-1 tvg-id="sk.4.hr" tvg-name="sk.4.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.4.hr.png",Sport Klub 4
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.4.hr.m3u8
-#EXTINF:-1 tvg-id="sk.5.hr" tvg-name="sk.5.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/sk.5.hr.png",Sport Klub 5
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/sk.5.hr.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Sony one hits action
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 
