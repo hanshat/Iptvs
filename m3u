@@ -286,6 +286,8 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/liverpool
 #EXTINF:-1 tvg-id="lfc.uk" tvg-name="lfc.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/lfc.uk.png",LFC TV UK
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/lfc.uk.m3u8
 
+#EXTINF:-1 tvg-logo="https://tlgrm.re/images/mtv-ca.png" group-title="CANADA",CA - MTV
+http://195.181.169.174:25461/live/j6gillia/1512281130/40678.m3u8?token=TUEMUBFQFVsUAlgMUFQEAwlRVVsLVAEBBgQADwdaBFQABlBXWwkBUwAWFRdHQxcHWQk6UV0SAwVSBVQOGhpGEFMRO1gGGg1DBwEJAAQCR04aEAxVXBIDAU4RE19SGglBBVJcAFQaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNTDwJWFBgbVltCCxZKHUcCG2RjE04RBk5CXV0QXwwKE1gaWlJDDBsZFl4WPUoBFkxLVVhcB0FBDBQIEU8UDgVJPVtYD1hRWkFdWAsRGl5HDRscG1wNXQpCWUpsE18HRgtADQFZDgIbSA==
 
 #EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="North Macedonia",M-Net Kids (720p)
 http://ares.mnet.mk/hls/mnet-kids.m3u8
