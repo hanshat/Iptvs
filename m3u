@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Friday Night SmackDown 
-https://faptok.site/sportslive/stream.m3u8?id=418
+
 #EXTINF:-1 tvg-id="AfricaGospel.ci",Africa Gospel 
 https://helga.iptv2022.com/sh/Africagospel_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=\"AboodTV.tz\" tvg-logo=\"https://i.imgur.com/vYEUncC.jpg\" group-title=\"Entertainment\",Abood TV (240p) [Not 24/7]
@@ -593,9 +592,9 @@ https://wazobia.live:8333/channel/wmax.m3u8
 https://wazobia.live:8333/channel/wmaxph.m3u8
 #EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://i.imgur.com/2i333B9.jpg" group-title="Lifestyle",Vogue
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="WWE Network" ,WWE Network  
-https://faptok.site/sportslive/stream.m3u8?id=376
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Friday Night SmackDown 
+https://faptok.site/sportslive/stream.m3u8?id=418
 #EXTINF:-1 tvg-id="ZeeOne.de",Zee One
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 
