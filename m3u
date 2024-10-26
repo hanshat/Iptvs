@@ -128,6 +128,8 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.
 #EXTINF:-1 tvg-id="bt.sportx.5.uk" tvg-name="bt.sportx.5.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",BT SportX 5 UK
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sportx.5.uk.m3u8
 
+#EXTINF:-1 tvg-id="chanell10" tvg-name="channelTen" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",Channel Tem
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/0f5cd45bb20c4c2db122ac583d37a071/chunklist_b4628000.m3u8
 
 
 #EXTINF:-1 tvg-id="bt.sport.box.office.uk" tvg-name="bt.sport.box.office.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.box.office.uk.png",BT Sport Box Office UK
