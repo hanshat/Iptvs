@@ -532,6 +532,8 @@ http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnj
 
 #EXTINF:-1 tvg-id="TraceAfrica.za",Trace Africa 
 http://hls.tmacaraibes.com/live/index.m3u8%22],%22subtitle%22:%22By
+#EXTINF:-1 tvg-id="TraceAfrica.za",Trace Urban
+http://hls.tmacaraibes.com/live/index.m3u8%22],%22subtitle%22:%22By
 
 #EXTINF:-1 tvg-id="TBNAfrica.za",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
