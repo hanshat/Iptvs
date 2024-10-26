@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Test.ci",Azam Sports 2 HD
+#EXTINF:-1 tvg-id="Test.ci",Azam Sports 1 HD
 http://wmycmgz.mleetv.xyz:80/live/0805338770/5537394058/401172759.m3u8
 #EXTINF:-1 tvg-id="AfricaGospel.ci",Africa Gospel 
 https://helga.iptv2022.com/sh/Africagospel_Tv/tracks-v1a1/mono.m3u8
