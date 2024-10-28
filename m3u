@@ -600,6 +600,7 @@ https://faptok.site/sportslive/stream.m3u8?id=418
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Super Lig : İstanbul Başakşehir vs Eyüpspor (11:00 PM 10/28/24) [BEIN SPORTS 2 TURKEY]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=63
 
@@ -930,175 +931,37 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=45
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=260
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [BEIN SPORTS 3 FRANCE]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=118
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=118
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [FOX DEPORTES]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=643
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=643
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [TV3 MAX DENMARK]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=223
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=223
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [ESPN2 ARGENTINA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=150
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=150
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBA LEAGUE PASS]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=50
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=50
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [TNT SPORTS 3 UK]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=33
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=33
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBA TV USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=404
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=404
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BALLY SPORTS WISCONSIN]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=907
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=907
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BALLY SPORTS MIDWEST]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=896
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=896
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBCS BOSTON]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=754
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=754
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [SPORT TV1 PORTUGAL]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=49
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=49
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [COSMOTE SPORT 4 GREECE]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=625
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=625
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BEIN SPORTS 1 FRANCE]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=116
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=116
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [ARENA SPORT 2 CROATIA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=433
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=433
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [ARENA 1 PREMIUM SERBIA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=134
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=134
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BEIN SPORTS ENGLISH 1]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=61
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=61
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BEIN SPORTS 1]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=91
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=91
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Dallas Mavericks vs Utah Jazz (09:30 AM 10/28/24) [NBA LEAGUE PASS]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=12
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Dallas Mavericks vs Utah Jazz (09:30 AM 10/28/24) [MOVISTAR DEPORTES SPAIN]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=436
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=436
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Dallas Mavericks vs Utah Jazz (09:30 AM 10/28/24) [SPORT TV3 PORTUGAL]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=454
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=454
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Dallas Mavericks vs Utah Jazz (09:30 AM 10/28/24) [COSMOTE SPORT 7 GREECE]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=628
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=628
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Dallas Mavericks vs Utah Jazz (09:30 AM 10/28/24) [BEIN SPORTS 4 MAX FRANCE]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=494
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=494
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Phoenix Suns vs Los Angeles Lakers (11:00 AM 10/28/24) [NBA LEAGUE PASS]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=13
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Phoenix Suns vs Los Angeles Lakers (11:00 AM 10/28/24) [TSN5]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=115
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=115
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Phoenix Suns vs Los Angeles Lakers (11:00 AM 10/28/24) [TSN4]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=114
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=114
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Phoenix Suns vs Los Angeles Lakers (11:00 AM 10/28/24) [NBA TV USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=404
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=404
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Phoenix Suns vs Los Angeles Lakers (11:00 AM 10/28/24) [SPECTRUM SPORTSNET]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=764
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=764
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Mysteries of the Unknown Season 3, Episode 8 (09:00 AM 10/28/24) [TRAVEL CHANNEL USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=340
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=340
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Hoarders Season 16, Episode 4 (09:00 AM 10/28/24) [A&AMP;E TV USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=302
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=302
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Below Deck Sailing Yacht Season 5 (09:00 AM 10/28/24) [BRAVO USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=307
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=307
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Fugitivas Season 1, Episode 24 (09:00 AM 10/28/24) [UNIVISION USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=132
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=132
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Antiques Roadshow Season 28, Episode 23 (09:00 AM 10/28/24) [PBS USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=210
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=210
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Superman & Lois Season 4, Episode 5 (09:00 AM 10/28/24) [CW USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=300
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=300
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Superman & Lois Season 4, Episode 5 (09:00 AM 10/28/24) [CW PIX 11 USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=280
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=280
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",NCIS : Season 22, Episode 3 (10:00 AM 10/28/24) [CBS USA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=52
