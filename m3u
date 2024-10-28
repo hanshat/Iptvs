@@ -769,45 +769,12 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=38
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League One : Blackpool vs Wigan Athletic (05:00 AM 10/29/24) [SPORT TV6 PORTUGAL]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=291
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League One : Blackpool vs Wigan Athletic (05:00 AM 10/29/24) [VODAFONE SPORT]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=260
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League One : Blackpool vs Wigan Athletic (05:00 AM 10/29/24) [COSMOTE SPORT 7 HD GREECE]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=628
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League One : Blackpool vs Wigan Athletic (05:00 AM 10/29/24) [ARENA SPORT 1 SERBIA]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=429
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League One : Blackpool vs Wigan Athletic (05:00 AM 10/29/24) [V SPORT PREMIUM]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=40
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League One : Blackpool vs Wigan Athletic (05:00 AM 10/29/24) [DIEMA SPORT 2 BULGARIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=466
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [SPORT TV1 PORTUGAL]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=49
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [GOLTV USA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=597
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [SPORTDIGITAL FUSSBALL DE]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=571
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [ELEVEN SPORTS 1 POLAND]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=71
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [BEIN SPORTS MAX 4 FRANCE]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=494
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [COSMOTE SPORT 2 HD GREECE]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=623
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [SPORT KLUB 1 SERBIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=101
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [ESPN2 BRAZIL]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=82
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Portugal - Primeira Liga : AVS vs Porto (05:15 AM 10/29/24) [RING BG]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=471
@@ -818,17 +785,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [TV4 TENNIS]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=707
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [POLSAT SPORTS POLAND]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=47
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [SPORT KLUB 1 SERBIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=101
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [SPORT KLUB 2 SERBIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=102
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="POPULAR EVENTS",WWE Monday Night RAW (09:00 AM 10/28/24) [USA NETWORK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=343
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="POPULAR EVENTS",WWE Monday Night RAW (09:00 AM 10/28/24) [TNT SPORTS 1 UK]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=31
@@ -917,18 +873,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [FOX USA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=54
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [TNT SPORTS 1 UK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=31
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [ESPN2 USA]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=45
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=45
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [VODAFONE SPORT]
-#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=260
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=260
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [BEIN SPORTS 3 FRANCE]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=118
@@ -942,14 +886,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=223
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="POPULAR EVENTS",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [ESPN2 ARGENTINA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=150
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBA LEAGUE PASS]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=50
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [TNT SPORTS 3 UK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=33
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBA TV USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=404
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BALLY SPORTS WISCONSIN]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=907
@@ -963,49 +899,7 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=436
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="POPULAR EVENTS",NBA : Phoenix Suns vs Los Angeles Lakers (11:00 AM 10/28/24) [TSN4]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=114
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",NCIS : Season 22, Episode 3 (10:00 AM 10/28/24) [CBS USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=52
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",NCIS : Season 22, Episode 3 (10:00 AM 10/28/24) [CBSNY USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=767
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Ancient Aliens: Origins Season 1, Episode 4 (10:00 AM 10/28/24) [HISTORY USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=322
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",I Love a Mama's Boy Season 4, Episode 7 (10:00 AM 10/28/24) [TLC USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=337
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Somebody Somewhere Season 3, Episode 1 • Premiere (10:00 AM 10/28/24) [HBO2 USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=689
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",NCIS: Origins Season 1, Episode 4 (11:00 AM 10/28/24) [CBS USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=52
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",NCIS: Origins Season 1, Episode 4 (11:00 AM 10/28/24) [CBSNY USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=767
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",VOCES Season 5, Episode 4 (11:00 AM 10/28/24) [PBS USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=210
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",90 Day Fiancé: The Other Way Season 6 (11:00 AM 10/28/24) [TLC USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=337
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",PAYBACK Season 3, Episode 51 (11:00 AM 10/28/24) [TV ONE USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=660
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",House Hunters Starting Over Single (11:00 AM 10/28/24) [HGTV USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=382
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",Based On A True Story Season 1, Episode 1 • Premiere (11:00 AM 10/28/24) [USA NETWORK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=343
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOW",What We Do in the Shadows Season 6, Episode 4 (11:00 AM 10/28/24) [FX USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=317
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Portugal - Liga 3 : Sporting CP II vs Lusitânia (06:30 PM 10/28/24) [CANAL 11 PORTUGAL]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=540
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Indonesia - Liga 1 : Persik Kediri vs Persib (09:00 PM 10/28/24) [INDOSIAR]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=10
@@ -1017,11 +911,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Super Lig : İstanbul Başakşehir vs Eyüpspor (11:00 PM 10/28/24) [SPORT KLUB 3 SERBIA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=103
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Russia - Premier League : Krylya Sovetov vs Krasnodar (11:30 PM 10/28/24) [MATCH PREMIER RUSSIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=573
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Russia - Premier League : Krylya Sovetov vs Krasnodar (11:30 PM 10/28/24) [ARENA 2 PREMIUM SERBIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=135
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - King Cup : Al Riyadh vs Al Shabab (11:50 PM 10/28/24) [SSC]
 lhttps://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=30
@@ -1064,11 +953,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=50
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Women's Friendly : Germany vs Australia (02:10 AM 10/29/24) [CBS SPORTS GOLAZO USA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=910
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Women's Friendly : Germany vs Australia (02:10 AM 10/29/24) [SPORT TV6 PORTUGAL]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=291
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Women's Friendly : Germany vs Australia (02:10 AM 10/29/24) [SPORT 2 ISRAEL]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=141
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Saudi Arabia - King Cup : Al Ittihad vs Al Jandal (02:30 AM 10/29/24) [SSC]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=60
@@ -1285,14 +1169,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=590
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",WTA: Tokyo (T2024): Final (01:00 PM 10/28/24) [TENNIS CHANNEL]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=40
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",WTA: Tokyo (T2024): Final (01:00 PM 10/28/24) [SKY SPORTS TENNIS UK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=46
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",WTA: Tokyo (T2024): Final (01:00 PM 10/28/24) [SKY SPORTS TENNIS DE]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=884
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",WTA: Tokyo (T2024): Final (01:00 PM 10/28/24) [SUPERSPORT TENNIS]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=423
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",Paris-ATP, Merida-WTA, Hong Kong-WTA & Jiujiang-WTA Early Rounds (01:00 PM 10/28/24) [TENNIS CHANNEL]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=40
@@ -1306,14 +1182,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [TV4 TENNIS]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=707
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [POLSAT SPORTS POLAND]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=47
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [SPORT KLUB 1 SERBIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=101
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",ATP1000 '24: Paris Masters D1 (07:00 PM 10/28/24) [SPORT KLUB 2 SERBIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=102
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tennis-logo.png" group-title="TENNIS",ATP Masters Paris (11:30 PM 10/28/24) [SPORT KLUB 2 SERBIA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=102
@@ -1327,20 +1195,10 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=343
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (09:00 AM 10/28/24) [TNT SPORTS 1 UK]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=31
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (09:00 AM 10/28/24) [SONY TEN 1]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=885
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (09:00 AM 10/28/24) [SPORTSNET 360]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=409
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (09:00 AM 10/28/24) [SUPERSPORT VARITY 3]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=418
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (09:00 AM 10/28/24) [FOX SPORTS 2 ARGENTINA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=788
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE Monday Night RAW (09:00 AM 10/28/24) [FOX SPORTS 3 ARGENTINA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=789
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/golf-logo.png" group-title="GOLF",College Golf East Lake Cup, First Round (04:00 AM 10/29/24) [GOLF CHANNEL USA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=318
@@ -1348,67 +1206,8 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=318
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/snooker-logo.png" group-title="SNOOKER",Ultimate Pool: Pairs Cup (03:30 AM 10/29/24) [SKY SPORT 2 NZ]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=589
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [NFL SUNDAY TICKET]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=10
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ABC USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=51
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ABC NY USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=766
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [TSN1]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=111
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ESPN USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=44
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [TSN3]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=113
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ESPN2 USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=45
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [SKY SPORTS NFL UK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=37
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [CHANNEL 5 UK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=355
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [SKY SPORTS MAIN EVENT UK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=38
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [#VAMOS ES]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=521
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ARENA PREMIUM 2 SERBIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=135
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ARENA SPORT 1 CROATIA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=432
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [BEIN SPORTS 2 FRANCE]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=117
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ESPN 2 NL]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=386
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [TV4 SPORT LIVE 1]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=703
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [SPN MX]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=925
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [RDS 2 CA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=840
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ESPN BR]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=81
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ESPN 2 BR]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=82
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ESPN DEPORTES]
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nfl-logo.png" group-title="AM FOOTBALL",NFL : Pittsburgh Steelers vs New York Giants (09:15 AM 10/28/24) [ESPN DEPORTES]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=375
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [MLB LEAGUE PASS]
@@ -1423,14 +1222,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=31
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [ESPN2 USA]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=45
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [VODAFONE SPORT]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=260
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [BEIN SPORTS 3 FRANCE]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=118
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [FOX DEPORTES]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=643
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Los Angeles Dodgers vs New York Yankees (09:08 AM 10/28/24) [TV3 MAX DENMARK]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=223
@@ -1471,20 +1262,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=778
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBA LEAGUE PASS]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=50
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [TNT SPORTS 3 UK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=33
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBA TV USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=404
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BALLY SPORTS WISCONSIN]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=907
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [BALLY SPORTS MIDWEST]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=896
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [NBCS BOSTON]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=754
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Milwaukee Bucks (08:30 AM 10/29/24) [SPORT TV1 PORTUGAL]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=49
@@ -1624,17 +1401,6 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=15
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Florida Panthers vs Buffalo Sabres (08:00 AM 10/29/24) [V SPORT PREMIUM]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=26
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Columbus Blue Jackets (08:00 AM 10/29/24) [NHL GAMECENTER]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=16
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Columbus Blue Jackets (08:00 AM 10/29/24) [BALLY SPORTS OHIO]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=899
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Columbus Blue Jackets (08:00 AM 10/29/24) [TV3 SPORT DENMARK]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=809
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Columbus Blue Jackets (08:00 AM 10/29/24) [V SPORT VINTER]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=27
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Nashville Predators vs Tampa Bay Lightning (08:30 AM 10/29/24) [NHL GAMECENTER]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=17
