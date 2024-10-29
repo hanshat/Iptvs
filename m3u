@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="azamsports.co.tz",Azam Sports 1 HD 
-http://wmycmgz.mleetv.xyz:8080/live/0805338770/5537394058/401172759.m3u8
 #EXTINF:-1 tvg-id="AfricaGospel.ci",Africa Gospel 
 https://helga.iptv2022.com/sh/Africagospel_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=\"AboodTV.tz\" tvg-logo=\"https://i.imgur.com/vYEUncC.jpg\" group-title=\"Entertainment\",Abood TV (240p) [Not 24/7]
