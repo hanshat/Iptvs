@@ -16,7 +16,8 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="United States",30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
-
+#EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="United States",AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMusicChannel.ng" tvg-logo="https://i.imgur.com/06zuf64.png" group-title="Nigeria",AMusic Channel (720p)
 http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
 #EXTINF:0 tvg-country="NG" tvg-logo="" group-title="Sport",AfroSport Nigeria
@@ -466,6 +467,12 @@ https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" user-agent="ExoPlayer2/2.37",Viju+ Sport
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="United States",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="YoutooAmerica.us" tvg-logo="https://i.imgur.com/QNGYhNw.png" group-title="United States",Youtoo America (1080p)
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="",Women's Sports Network
