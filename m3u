@@ -57,7 +57,7 @@ https://apollo.production-public.tubi.io/live/ac-dr-who.m3u8
 
 
 #EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="bein.sports.4.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.4.us.png",beIN Sports 4 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.4.us.m3u8
+https://80-251-153-55.my-servers.top:5052/live14/sbRWsSUmGQlJYeXbnzADRw/269943/1730204052/1057557.m3u8
 #EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="bein.sports.5.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.5.us.png",beIN Sports 5 US
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.5.us.m3u8
 #EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="bein.sports.6.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.6.us.png",beIN Sports 6 US
