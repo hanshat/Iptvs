@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Italy - Serie A : Milan vs Napoli (04:45 AM 10/31/24) [SUPERSPORT FOOTBALL]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=56
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League Cup : Brentford vs Sheffield Wednesday (05:00 AM 10/31/24) [SKY SPORTS FOOTBALL UK]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=35
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",England - League Cup : Southampton vs Stoke City (04:45 AM 10/31/24) [SKY SPORTS+]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Italy - Serie A : Milan vs Napoli (04:45 AM 10/31/24) [DAZN1 DE]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=426
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",DFB Pokal : Wolfsburg vs Borussia Dortmund (04:45 AM 10/31/24) [SKY SPORT 2 HD DE]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=11
+
+
 
 #EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="United States",30A Ridiculous TV (720p)
 https://30a-tv.com/feeds/720p/63.m3u8
