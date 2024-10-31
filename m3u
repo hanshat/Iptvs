@@ -533,6 +533,27 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.cl" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile",UTV (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="TV MUSIK",Vevo '80s
+https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png" group-title="TV MUSIK",Vevo '90s
+https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="TV MUSIK",Vevo 2010s
+https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240520T212904SQUARE.png" group-title="TV MUSIK",Vevo 2K
+https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240520T212908SQUARE.png" group-title="TV MUSIK",Vevo Features
+https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png" group-title="TV MUSIK",Vevo New KPOP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="TV MUSIK",Vevo Pop
+https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240520T212918SQUARE.png" group-title="TV MUSIK",Vevo Retro Rock
+https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="vijuExplore.ru" user-agent="ExoPlayer2/2.37",viju Explore
 https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" user-agent="ExoPlayer2/2.37",viju History
