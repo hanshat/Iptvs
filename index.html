@@ -1,1 +1,77 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Playlists</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .playlist {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+            margin-top: 10px;
+        }
+        .disclaimer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        a {
+            text-decoration: none;
+            color: #3498db;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Available IPTV Playlists</h1>
+    <p>Welcome to the IPTV playlists repository. Below is a list of all available playlists sourced from publicly available domains. Please note that all sources are publicly accessible.</p>
+
+    <div class="playlist">
+        <h2>All Channels</h2>
+        <p><a href="playlists/all.m3u" target="_blank">Download All Playlist</a></p>
+        <button class="button" onclick="copyToClipboard('https://hanshat.github.io/Iptvs.m3u')">Copy URL</button>
+    </div>
+
+    <!-- Add more playlists as needed -->
+    
+    <div class="disclaimer">
+        <p><strong>Disclaimer:</strong> All channels in this playlist are sourced from publicly available domains. If you wish to remove your channel from this playlist, please open an issue on the GitHub repository.</p>
+    </div>
+
+    <script>
+        function copyToClipboard(url) {
+            navigator.clipboard.writeText(url).then(() => {
+                alert('URL copied to clipboard: ' + url);
+            }, (err) => {
+                console.error('Could not copy text: ', err);
+            });
+        }
+    </script>
+
+</body>
+</html>
