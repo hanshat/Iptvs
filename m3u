@@ -90,6 +90,8 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES",AVA Series (Iran)
 https://avaserieshls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="arena.sport.7.hr" tvg-name="arena.sport.7.hr" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/arena.sport.7.hr.png",Arena Sport 7 HR
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.sport.7.hr.m3u8
