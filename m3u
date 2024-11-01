@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImsQY.png" group-title="Tanzania",Test 
+http://wmycmgz.mleetv.xyz:80/live/0805338770/5537394058/401172759.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Italy - Serie A : Genoa vs Fiorentina (01:30 AM 11/01/24) [DAZN ZONA IT]
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=877
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Saudi Arabia - Pro League : Al Ittihad vs Al Ahli (03:00 AM 11/01/24) [SSC]
