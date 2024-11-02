@@ -239,6 +239,19 @@ http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="",Korean Song Channel (720p)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 1 - Only Event {chlive}
+https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 2 - Only Event {chlive}
+https://cheapmdhal.lol/live/2/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 3 - Only Event {chlive}
+https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 4 - Only Event {chlive}
+https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
+#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 5 - Only Event {chlive}
+https://cheapmdhal.lol/live/5/chunks.m3u8?bongls.com
+
+
+
 
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/mtv-ca.png" group-title="CANADA",CA - MTV
 http://kstv.us:8080/live/j6gillia/1512281130/40678.m3u8
