@@ -2,25 +2,12 @@
 
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImsQY.png" group-title="Tanzania",Test 
 http://wmycmgz.mleetv.xyz:80/live/0805338770/5537394058/401172759.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Italy - Serie A : Genoa vs Fiorentina (01:30 AM 11/01/24) [DAZN ZONA IT]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=877
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Saudi Arabia - Pro League : Al Ittihad vs Al Ahli (03:00 AM 11/01/24) [SSC]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=50
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Spain - Copa del Rey : Vic vs Atlético Madrid (03:00 AM 11/01/24) [ESPN+ USA]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=59
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Italy - Serie A : Como vs Lazio (04:45 AM 11/01/24) [SKY SPORT 251 IT]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=11
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Euroleague : Maccabi Tel Aviv vs Real Madrid (04:05 AM 11/01/24) [MOVISTAR DEPORTES SPAIN]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=436
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Euroleague : Olympiakos vs Barcelona (04:15 AM 11/01/24) [MAGENTA SPORT]
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=14
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Champions League : Nantes vs Barcelona (04:45 AM 11/01/24) [DAZN 1 ES]
-#https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=445
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Germany - Bundesliga 2 : Ulm vs Schalke 04 (02:30 AM 11/03/24) [SKY SPORT BUNDESLIGA 2]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",France - Ligue 1 : Monaco vs Angers SCO (03:00 AM 11/03/24) [DAZN2 DE]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=427
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/popular-logo.png" group-title="POPULAR EVENTS",Saudi Arabia - Pro League : Al Nassr vs Al Hilal (03:00 AM 11/03/24) [SPORTDIGITAL FUSSBALL DE]
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=571
 
 
 #EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="United States",30A Ridiculous TV (720p)
