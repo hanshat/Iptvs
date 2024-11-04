@@ -91,39 +91,6 @@ http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216
 http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216697&extension=m3u8
 
 
-
-#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="bein.sports.4.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.4.us.png",beIN Sports 4 US
-https://80-251-153-55.my-servers.top:5052/live14/sbRWsSUmGQlJYeXbnzADRw/269943/1730204052/1057557.m3u8
-#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="bein.sports.5.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.5.us.png",beIN Sports 5 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.5.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="bein.sports.6.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.6.us.png",beIN Sports 6 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.6.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="bein.sports.7.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.7.us.png",beIN Sports 7 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.7.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="bein.sports.8.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.8.us.png",beIN Sports 8 US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.8.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.liga.us" tvg-name="bein.sports.liga.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.liga.us.png",beIN Sports Liga US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.liga.us.m3u8
-#EXTINF:-1 tvg-id="bein.sports.xtra.us" tvg-name="bein.sports.xtra.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bein.sports.xtra.us.png",Bein Sports Xtra
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bein.sports.xtra.us.m3u8
-#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="big.ten.network.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/big.ten.network.us.png",Big Ten Network US
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/big.ten.network.us.m3u8
-#EXTINF:-1 tvg-id="blue.sport.1.ch" tvg-name="blue.sport.1.ch" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/blue.sport.1.ch.png",Blue Sport 1 CH
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/blue.sport.1.ch.m3u8
-#EXTINF:-1 tvg-id="blue.sport.2.ch" tvg-name="blue.sport.2.ch" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/blue.sport.2.ch.png",Blue Sport 2 CH
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/blue.sport.2.ch.m3u8
-
-#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sports 1 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.1.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.2.uk.png",BT Sport 2 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.2.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.3.uk.png",BT Sport 3 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.3.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.4.uk" tvg-name="bt.sport.4.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.4.uk.png",BT Sports 4 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.4.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sportx.5.uk" tvg-name="bt.sportx.5.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",BT SportX 5 UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sportx.5.uk.m3u8
-
 #EXTINF:-1 tvg-id="chanell10" tvg-name="channelTen" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",Channel Tem
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/0f5cd45bb20c4c2db122ac583d37a071/chunklist_b4628000.m3u8
 
