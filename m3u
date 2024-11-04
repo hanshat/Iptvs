@@ -129,41 +129,13 @@ https://oha.to/play/2941093452/index.m3u8
 
 #EXTINF:-1 tvg-id="DodomaTV.tz",Dodoma TV (360p) [Not 24/7]
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 pt 
-https://ggl2605xwhr.a.trbcdn.net/dazn1/index.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 pt 
-https://ggl2605xwhr.a.trbcdn.net/dazn2/index.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 pt 
-https://ggl2605xwhr.a.trbcdn.net/dazn3/index.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 pt 
-https://ggl2605xwhr.a.trbcdn.net/dazn4/index.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 pt 
-https://ggl2605xwhr.a.trbcdn.net/dazn5/index.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 pt 
-https://ggl2605xwhr.a.trbcdn.net/dazn6/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
 https://apollo.production-public.tubi.io/live/ac-dazn-ringside.m3u8
 #EXTINF:-1 tvg-id="",Dr. G Medical Examiner (720p)
 https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVIuZyY.png" group-title="Infotainment" group-title="Discovery",Discovery HD Hindi
-https://nowmeplay.com/delta/discovery/api/Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Infotainment" group-title="Discovery",Discovery Science Hindi
-https://nowmeplay.com/delta/discovery/api/Discovery_Science_Hindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tWu1cHd.png" group-title="Infotainment" group-title="Discovery",Investigation Discovery Hindi
-https://nowmeplay.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37lrOuT.jpeg" group-title="Infotainment" group-title="Discovery",Discovery Kids Hindi
-https://nowmeplay.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W93YRf0.png" group-title="Infotainment" group-title="Discovery",Investigation Discovery
-https://nowmeplay.com/delta/discovery/api/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Infotainment" group-title="Discovery",Discovery Science
-https://nowmeplay.com/delta/discovery/api/Discovery_Science.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kZbathj.png" group-title="Infotainment" group-title="Discovery",DMAX
-https://nowmeplay.com/delta/discovery/api/DMAX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLyal2t.png" group-title="Infotainment" group-title="Discovery",Discovery HD
-https://nowmeplay.com/delta/discovery/api/Discovery_Channel.m3u8
 
 
 
