@@ -135,40 +135,12 @@ https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 group-title="INDEHOME TV2"   tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8
 
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 6 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/1.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 7 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/2.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 8 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/3.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 9 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/4.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 10 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/5.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 11 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/6.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 12 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/7.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 13  - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/8.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 14 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/9.m3u8?|referer=techcabal.net/
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 15 - Only Event {nflarlive}
-https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/10.m3u8?|referer=techcabal.net/
-
-
 
 
 
 #EXTINF:-1 tvg-logo="https://tlgrm.re/images/mtv-ca.png" group-title="CANADA",CA - MTV
 http://kstv.us:8080/live/j6gillia/1512281130/40678.m3u8
 
-#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="North Macedonia",M-Net Kids (720p)
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-id="MNetHD.mk" tvg-logo="https://i.imgur.com/HDYqWuR.png" group-title="North Macedonia",M-Net HD (720p)
-http://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 tvg-id="MNetSport.mk" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="North Macedonia",M-Net Sport (720p)
-http://ares.mnet.mk/hls/mnet-sport.m3u8
 
 #EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="South Korea",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
@@ -238,11 +210,6 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/800px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LA LIGA
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",LALIGA TV BAR 
-https://oha.to/play/1980907224/index.m3u8
-
-#EXTINF:-1 tvg-id="..." tvg-logo="." group-title="SPORTS",LA LIGA TV HD 
-https://oha.to/play/3923153097/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
