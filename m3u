@@ -327,10 +327,6 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="StarMovies.in",Star Movies India (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 
-#EXTINF:-1 tvg-id="TraceAfrica.za",Trace Africa 
-http://hls.tmacaraibes.com/live/index.m3u8%22],%22subtitle%22:%22By
-#EXTINF:-1 tvg-id="TraceAfrica.za",Trace Urban
-http://hls.tmacaraibes.com/live/index.m3u8%22],%22subtitle%22:%22By
 
 #EXTINF:-1 tvg-id="TBNAfrica.za",TBN Africa (1080p)
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
@@ -338,10 +334,6 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="the.tennis.channel.us" tvg-name="the.tennis.channel.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/the.tennis.channel.us.png",Tennis Channel US
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/the.tennis.channel.us.m3u8
-#EXTINF:-1 tvg-id="tennis.plus.1.us" tvg-name="tennis.plus.1.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tennis.plus.1.us.png",Tennis Plus 1
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tennis.plus.1.us.m3u8
-#EXTINF:-1 tvg-id="tennis.plus.2.us" tvg-name="tennis.plus.2.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tennis.plus.2.us.png",Tennis Plus 2
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tennis.plus.2.us.m3u8
 #EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT (East) US
 https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tnt.east.us.m3u8
 #EXTINF:-1 tvg-id="tnt.pacific.us" tvg-name="tnt.pacific.us" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/tnt.pacific.us.png",TNT (West) US
@@ -359,10 +351,6 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/tsn5.ca.m
 
 #EXTINF:-1 tvg-id="TMZ.us",TMZ (720p)
 https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr",Trace Sport Stars (Australia) (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr",Trace Urban (Australia) (1080p)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="UTV.cl" tvg-logo="https://i.imgur.com/ZJNSpfZ.png" group-title="Chile",UTV (720p)
