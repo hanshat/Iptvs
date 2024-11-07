@@ -44,19 +44,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8
 #EXTINF:-1 tvg-id="AfriwoodBlockbuster.za" tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="South Africa",Afriwood Blockbuster (720p)
 
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="Astro SuperSport 1",Astro SuperSport 1
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=123
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="Astro SuperSport 2",Astro SuperSport 2
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=124
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="Astro SuperSport 3",Astro SuperSport 3
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=125
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="Astro SuperSport 4",Astro SuperSport 4
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=126
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="AXN Movies Portugal",AXN Movies Portugal
-https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=717
-
-
-
 
 #EXTINF:-1 tvg-id="AFV.us",Always Funny Videos (720p)
 https://apollo.production-public.tubi.io/live/ac-afv.m3u8
@@ -80,15 +67,6 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/arena.spo
 #EXTINF:-1 tvg-id="BETEast.us",BET
 https://streamer1.nexgen.bz/BET/index.m3u8
 
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 1
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216679&extension=m3u8
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 2
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216685&extension=m3u8
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 3
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216691&extension=m3u8
-#EXTINF:-1 group-title="Main Leagues" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", Bundesliga 4
-http://58315-mobile.oot-mx.me:80/play/live.php?mac=00:1A:79:B8:3E:FF&stream=1216697&extension=m3u8
-
 
 #EXTINF:-1 tvg-id="chanell10" tvg-name="channelTen" tvg-type="live" group-title="News" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",Channel Tem
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/0f5cd45bb20c4c2db122ac583d37a071/chunklist_b4628000.m3u8
@@ -103,17 +81,9 @@ https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOD PRIME" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png" group-title="INDIA",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/d83aef0a-3517-46b1-bbf7-0507bba8b4d2/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bflix-movies-in.png" group-title="INDIA",BFLIX MOVIES
-http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 
 #EXTINF:-1 tvg-id=\"CinemaHausa.za\" tvg-logo=\"https://i.imgur.com/uV5cHDW.png\" group-title=\"Movies\",Cinema Hausa (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
-#EXTINF:-1 tvg-id="ChristLive.ci",Christ Live (720p)
-https://voozmedia.fun/stream/christlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Canal+ Sport 1 Afrique" ,Canal+ Sport 1 Afrique  
-https://faptok.site/sportslive/stream.m3u8?id=486
-#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="Canal+ Sport 4 Afrique" ,Canal+ Sport 4 Afrique  
-https://faptok.site/sportslive/stream.m3u8?id=489
 
 #EXTINF:-1 tvg-id="CapeTownTV.za",Cape Town TV (576p)
 https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
@@ -123,16 +93,12 @@ https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8
 #EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png?20210827134204" group-title="SPORTS",DAZN 1 
-https://oha.to/play/2941093452/index.m3u8
 
 #EXTINF:-1 tvg-id="DodomaTV.tz",Dodoma TV (360p) [Not 24/7]
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",Dazn Ringside (1080p)
-https://apollo.production-public.tubi.io/live/ac-dazn-ringside.m3u8
 #EXTINF:-1 tvg-id="",Dr. G Medical Examiner (720p)
 https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8
 
@@ -168,23 +134,6 @@ https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 #EXTINF:-1 group-title="INDEHOME TV2"   tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (720p)
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr",KBS LiveCam DokDo (540p)
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="",Korean Song Channel (720p)
-http://live.kytv.co.kr:8080/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 1 - Only Event {chlive}
-https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 2 - Only Event {chlive}
-https://cheapmdhal.lol/live/2/chunks.m3u8?bongls.com
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 3 - Only Event {chlive}
-https://cheapmdhal.lol/live/3/chunks.m3u8?bongls.com
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 4 - Only Event {chlive}
-https://cheapmdhal.lol/live/4/chunks.m3u8?bongls.com
-#EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dsigy5FG5o00fhaEQIYgNpimF4UTpPZ6wuctVJf15oWN7WzFaWx_04B&s=10", LIVE 5 - Only Event {chlive}
-https://cheapmdhal.lol/live/5/chunks.m3u8?bongls.com
 
 #EXTINF:-1 group-title="Web Live Stream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9cbsIPeAB1jmuv3yt_rdjv4Em3ScSK7Vzw&usqp=CAU", LIVE 6 - Only Event {nflarlive}
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/1.m3u8?|referer=techcabal.net/
