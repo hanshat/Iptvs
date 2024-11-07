@@ -183,16 +183,6 @@ https://webstreaming.viewmedia.tv/web_026/Stream/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
 #EXTINF:-1 tvg-id="",Mr. Beast (1080p)
 https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Movies2",MBC 1
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Movies2",MBC 3
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Movies2",MBC 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Movies2",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="MST3K.us",Mystery Science Theater 3000 (720p)
-https://aegis-cloudfront-1.tubi.video/d4996d1c-b12b-4220-ac05-b674d76b639b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/51nsn9N/Disney-shareext.jpg" group-title="SHAREEXT@SONY~ONE|CHANNELS",Movies TV ENGLISH
 https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
