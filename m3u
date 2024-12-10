@@ -72,11 +72,6 @@ https://streamer1.nexgen.bz/BET/index.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/0f5cd45bb20c4c2db122ac583d37a071/chunklist_b4628000.m3u8
 
 
-#EXTINF:-1 tvg-id="bt.sport.box.office.uk" tvg-name="bt.sport.box.office.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.box.office.uk.png",BT Sport Box Office UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.box.office.uk.m3u8
-#EXTINF:-1 tvg-id="bt.sport.espn.uk" tvg-name="bt.sport.espn.uk" tvg-type="live" group-title="Olahraga 4 VIP" tvg-logo="https://media.tv4.live/bt.sport.espn.uk.png",BT Sport ESPN UK
-https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/bt.sport.espn.uk.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png" group-title="MOVIES",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOD PRIME" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bollywood-tv-il.png" group-title="INDIA",BOLLYWOOD PRIME
