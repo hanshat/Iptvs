@@ -15,6 +15,14 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="United States",30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBoRyZS_S4JVjviI4O7RMKJHckbC3WJjLoA&s" group-title="BEIN SPORTS",BeIN Sports English 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportENG1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-rEd46WXXBi_xr06ASBS9EdfZRfX0toQTA&s" group-title="BEIN SPORTS",BeIN Sports English 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportENG2.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://img.ulusal.com.tr/storage/files/images/2022/12/19/bein-connect-tod-mu-oldu-bein-sport-cd2r.jpg" group-title="BEIN SPORTS",BeIN Sports 1 TOD
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportTOD1.m3u8
 #EXTINF:-1 tvg-logo="https://img.ulusal.com.tr/storage/files/images/2022/12/19/bein-connect-tod-mu-oldu-bein-sport-cd2r.jpg" group-title="BEIN SPORTS",BeIN Sports 2 TOD
