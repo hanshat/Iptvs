@@ -21,33 +21,29 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportEN
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-rEd46WXXBi_xr06ASBS9EdfZRfX0toQTA&s" group-title="BEIN SPORTS",BeIN Sports English 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Bein/B-inal22/BeinSportENG2.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/gofZHpP.jpg" group-title="ESPORTE", SPORTV 2
+https://super-cdn.link/sportv2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 1 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6123/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 3 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6124/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 4 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6125/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 5 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6126/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 6 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6127/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 7 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6128/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 8 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6129/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 9 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6130/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 10 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6131/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 11 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6132/index.m3u8
-#EXTINF:-1 group-title="SPORT SERVER 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 12 HD QA
-http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/6133/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gofZHpP.jpg" group-title="ESPORTE", SPORTV 2
+https://stream1.freetv.fun/sportv-2-1.ctv
 
+#EXTINF:-1 tvg-logo="https://imgur.com/gofZHpP.jpg" group-title="ESPORTE", SPORTV 2
+https://abc.embedmax.site/sportv2/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/N4yF1XS.jpg" group-title="ESPORTE", SPORTV 3
+https://super-cdn.link/sportv3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/N4yF1XS.jpg" group-title="ESPORTE", SPORTV 3
+https://stream1.freetv.fun/sportv-3-1.ctv
 
+#EXTINF:-1 tvg-logo="https://imgur.com/N4yF1XS.jpg" group-title="ESPORTE", SPORTV 3
+https://abc.embedmax.site/sportv3/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/63TRQgU.jpg" group-title="ESPORTE", SPORTV 4
+https://super-cdn.link/sportv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fa94auf.jpg" group-title="ESPORTE", SPORTV 5
+https://super-cdn.link/sportv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="AnixePlus.de" tvg-logo="https://i.imgur.com/hvGJ2oa.png" group-title="Germany",Anixe + (360p)
